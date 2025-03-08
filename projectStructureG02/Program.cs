@@ -22,5 +22,6 @@ namespace projectStructureG02
                 {
                     webBuilder.UseStartup<Startup>();
                 });
+
     }
 }
